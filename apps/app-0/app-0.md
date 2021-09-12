@@ -1,12 +1,12 @@
 # App 0: Environment Setup
 
-Discuss this app & get help on [Piazza](https://piazza.com/upenn/spring2020/cis195201/home).
+Discuss this app & get help on [Piazza](piazza.com/upenn/fall2021/cis1952012021c).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 10-15 minutes of engagement. 1+ hours of installing & updating software if required.
 
 
-**Deadline:** Thursday, January 23rd at **4:20pm** 🤖
+**Deadline:** Monday, September 20 at **5:00pm** 🤖
 
 - - - -
 
