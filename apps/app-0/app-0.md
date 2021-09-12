@@ -27,7 +27,6 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 ## Install Xcode
 1. Make sure you are running at least **MacOS Mojave 10.14.4.** **Catalina is preferred.** If you are not, update your OS from the Mac App Store. This version is required for the version of Xcode we use. Not all Macs can run this version, check that yours can [with this list](http://osxdaily.com/2018/06/05/macos-mojave-compatible-macs-list/).
-![](/apps/app-0/assets/fig1.png?raw=true)
 3. Go to the Mac App Store and install Xcode. If you have Xcode already, make sure it is updated to version **11.7**.
 4. Launch Xcode and accept any permission dialogues. You may have to put in your password. Xcode will also ask to “Install Additional Required Components” — click yes.
 
@@ -64,9 +63,6 @@ let pennId = <PENNID>
 print("Hello World \(emoji) My name is \(name) and my pennId is \(pennId)")
 ```
 - Click the play button to compile and run.
-
-Your playground should look like this:
-![](/apps/app-0/assets/fig4.png?raw=true)
 
 Congrats! You just ran your first line of Swift 🎉🎉🎉
 
