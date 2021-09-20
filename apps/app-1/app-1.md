@@ -1,6 +1,6 @@
 # App 1: Swift
 
-Discuss this app & get help on [Piazza](tiny.cc/cis195-piazza).
+Discuss this app & get help on [Piazza](https://piazza.com/upenn/fall2021/cis1952012021c/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 2 hours
