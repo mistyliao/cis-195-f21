@@ -1,12 +1,12 @@
 # Tutorial 1: Life Cycle & MVC
 
-Discuss this tutorial & get help on [Piazza](https://tiny.cc/cis195-piazza).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/fall2021/cis1952012021c/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** < 1 hour
 
 
-**Deadline:** Thursday, September 12th at **1:20pm**
+**Deadline:** **
 
 
 ⚠️ **Late submissions will be a zero starting with this Tutorial! Be sure to submit by the deadline.**
