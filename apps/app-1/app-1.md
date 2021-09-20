@@ -53,7 +53,7 @@ As you read, be sure to hit the "play" button to see results. Don't be afraid to
 ## Finger Exercises 🏋️‍♀️🏋️‍♂️
 
 #### Do the following:
-- Open Xcode & create a new playground. Name it `app1_lastname_firstname.playground`.
+- Open Xcode & create a new playground (File -> New -> Playground). Name it `app1_lastname_firstname.playground`.
 - Remove the boilerplate code.
 - Complete the following exercises.
 
