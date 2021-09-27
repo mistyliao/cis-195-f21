@@ -105,7 +105,7 @@ Late submissions will be graded according to the policy described in Lecture 0. 
 
 ---
 # End of Part A
-SUBMIT YOUR WORK TO THIS POINT on Canvas by Monday, October 4th at **5:00pm**. Warning: missing this deadline will result in a late grade. Part B will be released on October 4th.
+SUBMIT YOUR WORK TO THIS POINT on Canvas by Monday, October 4th at **5:00pm**. Warning: missing this deadline will result in a late grade. Part B will be officially assigned on October 4th.
 ---
 
 # Part B: Toe
