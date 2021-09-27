@@ -31,7 +31,7 @@ The Model-View-Controller design pattern enables us to develop modular and exten
 As you watch, make sure to connect the concepts back to what we built in Recitation. "Passcode" wasn't complex enough to warrant a Model, but we did set up multiple connections between Controller and View.
 
 Watch from 0:37 to 11:58:
-[Stanford - Applying MVC](https://www.youtube.com/watch?v=w7a79cx3UaY&index=2&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq)
+[Stanford - Applying MVC](https://www.youtube.com/watch?v=j50mPzDMWVQ)
 
 ### Do the following
 * Create a new `.txt` file named `tut1_lastname_firstname.txt`.
