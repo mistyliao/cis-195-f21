@@ -6,7 +6,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 **Expected Duration:** < 1 hour
 
 
-**Deadline:** **
+**Deadline:** Monday, October 4th at **5:00pm**
 
 
 ⚠️ **Late submissions will be a zero starting with this Tutorial! Be sure to submit by the deadline.**
