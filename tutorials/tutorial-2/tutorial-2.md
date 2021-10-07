@@ -46,8 +46,7 @@ Do the following:
 Now that you have read through the concepts of delegation in a UIScrollView, let’s learn about the UITableView, which is a special kind of scroll view. *This is an incredibly important part of iOS development.*
 
 Watch: 
-From 0:30 to 30:40 [1.5x speed recommended]
-(https://www.youtube.com/watch?v=SgEO7nni5CQ)
+From 0:30 to 30:40 [1.5x speed recommended](https://www.youtube.com/watch?v=SgEO7nni5CQ)
 
 The video will touch a little on segues. We covered a bit on segues during the view controller life cycle section in class. Think of them as a way of passing information and transitioning between view controllers. 
 
