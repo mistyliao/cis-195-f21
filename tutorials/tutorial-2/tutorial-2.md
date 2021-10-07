@@ -33,7 +33,7 @@ Every option on your iPhone’s Settings app is a cell in a table view. When the
 The following video is from a lecture from the Stanford course on iOS programming. The lecture explains Protocols and Delegation in great depth, and then demonstrates their use in an app using a Scroll View. 
 
 Watch: 
-From 9:33 to 46:53  [1.5x speed recommended](https://youtu.be/GIlsl-6TqmM?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai&t=573)
+From 41:20 to end  [1.5x speed recommended](https://www.youtube.com/watch?v=ppNZoEOr0zs&t=809s)
 
 Do the following:
 1.  Create a txt file called `tut2_lastname_firstname.txt`
@@ -46,8 +46,8 @@ Do the following:
 Now that you have read through the concepts of delegation in a UIScrollView, let’s learn about the UITableView, which is a special kind of scroll view. *This is an incredibly important part of iOS development.*
 
 Watch: 
-From 33:00 to 1:04:00 [1.5x speed recommended]
-(https://www.youtube.com/watch?v=M3X9o9wbn9o&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq&index=13)
+From 0:30 to 30:40 [1.5x speed recommended]
+(https://www.youtube.com/watch?v=SgEO7nni5CQ)
 
 The video will touch a little on segues. We covered a bit on segues during the view controller life cycle section in class. Think of them as a way of passing information and transitioning between view controllers. 
 
