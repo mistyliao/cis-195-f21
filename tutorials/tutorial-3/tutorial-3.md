@@ -1,11 +1,11 @@
 # Tutorial 3: AutoLayout
 
-Discuss this tutorial & get help on [Piazza](https://tiny.cc/cis195-piazza).
+Discuss this tutorial & get help on [Piazza](https:///www.piazza.com/upenn/fall2021/cis1952012021c/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 40 minutes
 
-**Deadline:** Thursday, February 20th at **4:20pm**
+**Deadline:** Wednesday, October 20th at **5:00pm**
 
 - - - -
 
