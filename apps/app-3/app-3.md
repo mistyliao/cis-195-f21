@@ -1,6 +1,6 @@
-# App 3: Newsfeed
+# App 3: Newsfeed 📰
 
-Discuss this app & get help on [Piazza](https://tiny.cc/cis195-piazza).
+Discuss this app & get help on [Piazza](https://www.piazza.com/upenn/fall2021/cis1952012021c/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Ideas may be discussed with classmates, but don't work together.
 
@@ -9,7 +9,7 @@ While the last app had 2 parts, this app only has 1.
 **Expected Duration:** 2+ hours.
 
 **Deadlines:**
-* Thursday, February 20th at **4:20pm**
+* Wednesday, October 20th at **5:00pm**
 
 - - - -
 
@@ -83,7 +83,7 @@ We'll use this project to gain experience using table views. In this project, yo
 * `heightForRowAt` already returns 100.0 - no changes necessary.
 * Implement `numberOfRowsInSection`  - this should depend on your model (the `newsItems` array).
 * Implement `numberOfSections`.
-* Finally, implement `cellForRowAt`. Remember to `dequeCellWithIdentifier` to get table view cells, never create them yourself. The identifier cooresponds to the value you entered in the storyboard. Once you have a cell reference, you can access the views by using type casting and the `tag` property. For example: `if let label = cell.viewWithTag(49) as? UILabel { ... }`. You can use the `IndexPath.row` property to access the cooresponding value in your `newsItems` array.
+* Finally, implement `cellForRowAt`. Remember to `dequeueCellWithIdentifier` to get table view cells, never create them yourself. The identifier cooresponds to the value you entered in the storyboard. Once you have a cell reference, you can access the views by using type casting and the `tag` property. For example: `if let label = cell.viewWithTag(49) as? UILabel { ... }`. You can use the `IndexPath.row` property to access the cooresponding value in your `newsItems` array.
 
 ## Step 6: Advanced Table View: Favorites
 * Implement `didSelectRowAt` - when a user selects a cell, *deselect* that cell and toggle its favorited state (hint: if you use a Bool to store the favorited state, you can use the `.toggle()` method to flip the bool).
