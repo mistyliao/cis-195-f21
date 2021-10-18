@@ -20,8 +20,6 @@ Remember -- Stack Overflow and Google are encouraged, but DO NOT copy code. Idea
 
 ![](/apps/app-4/assets/fig1.png?raw=true)
 
-![](/apps/app-4/assets/fig2.png?raw=true)
-
 In this app, we'll implement a "profile page". The label text will be hardcoded, but users will be able to change their profile photo. You could imagine this app as being a single screen of a larger app.
 
 We'll use this app to get practice with constraint layouts. Although I covered Autoresizing Masks (the easy way) in class, DO NOT use these for this assignment. Using Autolayout Contraints is **required**.
