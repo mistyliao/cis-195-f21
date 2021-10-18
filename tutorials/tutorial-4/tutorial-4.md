@@ -20,12 +20,12 @@ Where are we in the learning process?
 ## An Introduction to Segues
 Let’s kick off this tutorial with a brief explanation of what segues are, and how they work in iOS.
 
-Watch [this video](https://www.youtube.com/watch?v=5B5IRK9wYjI&index=8&list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) from 15:38 to 25:00 for understanding segues. Continue the video for an implementation example (2x recommended).
+Watch [this video](https://www.youtube.com/watch?v=o_HukQ-IKH8) from 1:00 to 14:35 for a brief intro to understanding segues. Continue the video for an implementation example (2x recommended).
  
 ## Types and Use Cases of Basic Segues
 Now that we have an idea of what segues are, let’s look at the types of segues that exist in XCode, and when are possible uses cases of each one.
 
-Read [this blog post](https://digitalleaves.com/segues-navigation-ios-basics/) (and keep it handy).
+Read [this Apple Developer guide to segues](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/UsingSegues.html) up to "Modifying a Segue’s Behavior at Runtime" to get a sense of the different segues (and keep it handy).
 
 ## Navigation Controllers
 The UINavigationController is one of the most important classes in UIKit, used in almost every app. Its a very common way of navigating between different scenes in an app. It is used when you want to present different scenes, and pass data between those views in a sequential way. Let’s start by reading the Apple documentation, to understand what a Navigation Controller is, and what it can do.
