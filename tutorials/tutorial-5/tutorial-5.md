@@ -1,11 +1,11 @@
 # Tutorial 5: Networking and Multithreading
 
-Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/fall2019/cis195201/home).
+Discuss this tutorial & get help on [Piazza](https://piazza.com/upenn/fall2021/cis1952012021c/home).
 Please leave feedback by creating a GitHub issue or by posting on Piazza.
 
 **Expected Duration:** 1.5 hours
 
-**Deadline:** Thursday, March 5th at **4:20pm**
+**Deadline:** Monday, November 1st at **5:00pm**
 
 - - - -
 
