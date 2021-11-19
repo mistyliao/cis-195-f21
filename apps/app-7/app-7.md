@@ -34,7 +34,7 @@ Each time an egg is either collected or dropped by a user, the information on th
 Don't worry - Firebase makes this straightforward!
 
 ## Getting Started
-* Download the [starter project](egg-hunt.zip)
+* Download the [starter project](egg-hunt-template.zip)
 * Look around and get familiar with the codebase and the TODO items
     - Main.storyboard
     - ViewController.swift
