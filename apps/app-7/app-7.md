@@ -35,16 +35,15 @@ Don't worry - Firebase makes this straightforward!
 
 ## Getting Started
 * Download the [starter project](egg-hunt.zip)
-    - Note that Cocoapods has already been used to install the `Firebase/Database` pod
-* Note that because we have installed Cocoapods, **you must use the .xcodeworkspace** file instead of the .xcodeproj file
-* Look around and get familiar with the codebase
+* Look around and get familiar with the codebase and the TODO items
     - Main.storyboard
     - ViewController.swift
     - EggAnnotation.swift
 * Make sure the app compiles
 
 ## Install Firebase
-In this project, we'll use **Firebase Realtime Database** to keep track of collected eggs. Although the Firebase Cocoapod has been installed for you, we still need to setup a Firebase project. I recommend watching this week's lecture to see how this is done. Alternatively, [follow the instructions here](https://firebase.google.com/docs/database/ios/start).
+In this project, we'll use **Firebase Realtime Database** to keep track of collected eggs. In order to use Firebase, we will need to 1) add the Firebase package to our project using Swift Package Manager and 2) register our app with a Firebase project. I recommend watching this week's lecture to see how both of these steps are done. In order to setup your Firebase project, I recommend [following the instructions here](https://firebase.google.com/docs/database/ios/start).
+* When adding the Firebase Swift Package, select "Firebase Database" in the list of package options
 * When creating your Database, be sure to start it in *Test Mode*
 * DO NOT use Cloud Firestore. Use Realtime Database.
 
@@ -53,7 +52,7 @@ Now that we've setup the Database, we'll populate our database with the contents
 The [Firebase documentation](https://firebase.google.com/docs/database/ios/read-and-write) should be used to complete this app.
 
 ## Requirements
-* When the app opens, the map automatically zooms until it is centered on Penn campus.
+* When the app opens, the map automatically zooms until it is centered on Penn campus (watch the demo video for guidance on how to do this!).
 * Displayed on the map are 6 eggs.
 * Tapping on an egg displays a callout view, containing:
     - A label with the text "Egg <ID>".
@@ -64,7 +63,7 @@ The [Firebase documentation](https://firebase.google.com/docs/database/ios/read-
 * Changing a latitude or longitude value in the Firebase console should make that egg *immediately* update its position on the map.
 
 ## Suggested Implementation Order
-*I recommend completing these requirements roughly in order. Please watch the lecture in it's entirety before starting.*
+*I recommend completing these requirements roughly in order. Please watch the lecture + demo in it's entirety before starting.*
 
 * Setup `ref` inside viewDidLoad.
 * Setup `refHandle`, also inside viewDidLoad. This is where you'll fetch data from Firebase, decode that data into EggAnnotations, and update your UI.
