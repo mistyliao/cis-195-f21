@@ -20,7 +20,7 @@ Please leave feedback by creating a GitHub issue or by posting on Piazza.
 ## The iOS SDK 🤖
 This is a video from the announcement of XCode, interface builder, and the iOS SDK. Although it's old and much has changed, they do a great job of explaining how exactly the iPhone is structured, and what XCode/IB is meant for. 
 
-Watch from 19:44 to 31:34 (1.25x speed recommended): [The iOS SDK](https://youtu.be/MfQtnQHLNcs?t=1182)
+Watch from 0:00 to 16:57 (1.5x speed recommended): [The iOS SDK](https://www.youtube.com/watch?v=IS5bMRKc5Ss&t=1889s)
 
 Takeaway: development of iOS apps stems directly from the way the phone is built, and the design choices made over a decade ago. Although most of the software shown is outdated, the core design has remained the same to this day. XCode and Interface Builder are powerful tools that accelerate iOS app development.
 
